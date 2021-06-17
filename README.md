@@ -1,2 +1,2 @@
 # My-programs
-contains all the programs that i wrote
+Contains All the Programs that I Wrote
